@@ -1,14 +1,14 @@
 # Hey Peeps :tada:
-## Welcome to this amazing frontend application Umeh~Stck.
+## Welcome to this amazing frontend application Umeh~Stack.
 
-I'm So exited because i used my a new frontend tool (mui)[https://mui.com/] for this project and i love it a whole lot
+I'm So exited because i used my a new frontend tool (mui) [https://mui.com/] for this project and i love it a whole lot
 
 After cloning this project, you can run:
 ### `yarn install`
 
 After installing dependencies, run:
 ### `yarn start`
-It will run the app in development mode(https://localhost:3000)[https://localhost:3000]
+It will run the app in development mode(https://localhost:3000) [https://localhost:3000]
 
 To stage app for production, run:
 ### `yarn build`
