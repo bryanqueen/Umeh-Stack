@@ -1,0 +1,5 @@
+<Typography>----- It is for writing text
+<AppBar>----It is used to represent Navbar
+<Toolbar>---It is found inside of the Navbar
+styled()---- It is used for customizing and Overriding
+sx={}----It is used for styling
