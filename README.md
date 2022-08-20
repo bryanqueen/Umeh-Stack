@@ -18,4 +18,4 @@ stages app for production in the `build` folder.\
 ![Alt text](C:\Users\dell\Videos\Captures/DarkMode.png "DarkMode View")
 ![Alt text](C:\Users\dell\Videos\Captures/LightMode.png "LightMode View")
 
-***#### Dig in Guys, Happy Hacking :tada: ***
+#### Dig in Guys, Happy Hacking :tada:
